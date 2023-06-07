@@ -21,7 +21,7 @@ jobs:
      - run: flutter pub get
      - run: dart format .
      - run: flutter analyze .
-     - run: flutter build apk
+     - run: flutter build apk --obfuscate --release
      - uses: actions/upload-artifact@v3
        with:
         name: group-wallet-alpha-apk
