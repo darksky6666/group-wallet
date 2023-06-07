@@ -3,7 +3,7 @@
 
 
 ### **Automated Build Test**
-![Workflow](https://github.com/darksky6666/sb-detector/actions/workflows/flutter-apk-autobuild.yml/badge.svg?branch=main)
+[![Flutter CI](https://github.com/darksky6666/group-wallet/actions/workflows/flutter-apk-autobuild.yml/badge.svg)](https://github.com/darksky6666/group-wallet/actions/workflows/flutter-apk-autobuild.yml)
 
 
 # Descriptions
